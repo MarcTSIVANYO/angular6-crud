@@ -1,4 +1,6 @@
-# AngularCrudLevel
+# AngularCrud with REST API
+
+##  This code will not work without first setting up the MYSQL database
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
 
